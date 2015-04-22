@@ -6,4 +6,4 @@
 
  - Para poder executar a aplicação, rodar a classe Execute do pacote br.com.pre.dojo.tests.
  
- - Infelizmente tive tempo para fazer os bônus.
+ - Infelizmente não tive tempo para fazer os bônus.
