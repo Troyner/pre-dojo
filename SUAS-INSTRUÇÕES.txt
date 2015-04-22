@@ -1,2 +1,9 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+ - Criei a classe LogTest para mostrar alguns testes utilizados na construção da aplicação.
+
+ - Usei lambda do Java 8, então é necessário essa versão para pode executar. 
+
+ - A aplicação está pegando os logs do resource da pasta dos testes.
+
+ - Para poder executar a aplicação, rodar a classe Execute do pacote br.com.pre.dojo.tests.
+ 
+ - Infelizmente tive tempo para fazer os bônus.
